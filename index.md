@@ -1,10 +1,7 @@
 # IT-304 Github Assignment
-______________________________________________________
-|  Name          |   Joshua Greenfield                 |
-|_____________________________________________________ |
-|  Intro         |   Hello, my name is Josh and I      |
-|                |   am a Cybersecurity major at GMU   |
-|______________________________________________________|
-|  Hobbies       |   Getting out in nature, reading,   | 
-|                |   exercise                          |
-|______________________________________________________|
+
+
+|  Name  |  Joshua Greenfield  |
+|--------|---------------------|
+|  Intro  |  Hello, my name is Josh and I am a Cybersecurity major at GMU  |
+|  Hobbies  |  My hobbies include hiking, reading, and fitness  |
