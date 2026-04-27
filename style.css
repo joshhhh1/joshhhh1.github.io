@@ -28,6 +28,11 @@ main {
     color: #222;
     max-width: 900px;
 }
+.refs {
+    list-style: none;
+    padding-left: 0;
+}
+
 .refs li {
     display: flex;
     justify-content: space-between;
@@ -38,4 +43,5 @@ main {
 
 .refs a {
     color: #0077cc;
+    white-space: nowrap;
 }
