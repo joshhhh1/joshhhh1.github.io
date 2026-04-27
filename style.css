@@ -27,6 +27,7 @@ main {
     border-radius: 10px;
     color: #222;
     max-width: 900px;
+}
     .refs li {
     display: flex;
     justify-content: space-between;
@@ -37,5 +38,4 @@ main {
 
 .refs a {
     color: #0077cc;
-}
 }
