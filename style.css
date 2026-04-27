@@ -28,7 +28,7 @@ main {
     color: #222;
     max-width: 900px;
 }
-    .refs li {
+.refs li {
     display: flex;
     justify-content: space-between;
     margin-bottom: 12px;
